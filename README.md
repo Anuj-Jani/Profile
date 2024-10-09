@@ -3,8 +3,7 @@
 
 <br>
 <br>
-- 🌱 I’m currently learning **Reactnative , Nodejs**
-
+-
 - 📫 How to reach me **workwithanuj8@gmail.com**
 
 - ⚡ Fun fact **Ada Lovelace is considered the world's first computer programmer. In the 1840s, she wrote an algorithm for Charles Babbage's Analytical Engine, a mechanical general-purpose computer**
