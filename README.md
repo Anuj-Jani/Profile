@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Jani</h1>
-<h3 align="center">  🚀 Aspiring Cloud Engineer | UI/UX Designer for Web & App 🎨 💼 Former QA Tester | React.js Intern | Node.js Enthusiast 💻 From India </h3>
+<h3 align="center"> A react native developer  </h3>
 
 <br>
 <br>
