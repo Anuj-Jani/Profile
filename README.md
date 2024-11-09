@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuj Jani</h1>
-<h3 align="center"> A react native developer  </h3>
+<h3 align="center">UI/UX Designer turned Developer | Full-Stack Learner | DevOps Aspirant</h3>
 
-<br>
-<br>
--
+- 🌱 I’m currently learning **Reactnative , Nodejs**
+
 - 📫 How to reach me **workwithanuj8@gmail.com**
 
 - ⚡ Fun fact **Ada Lovelace is considered the world's first computer programmer. In the 1840s, she wrote an algorithm for Charles Babbage's Analytical Engine, a mechanical general-purpose computer**
