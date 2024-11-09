@@ -3,6 +3,7 @@
 
 
 - 📫 How to reach me **workwithanuj8@gmail.com**
+- 🎨 Crafting user-centered designs & 🖥️ building robust backend systems. Currently on a journey from UI/UX to full-stack mastery, with 🚀 DevOps as the ultimate goal!
 
 
 <h3 align="left">Connect with me:</h3>
